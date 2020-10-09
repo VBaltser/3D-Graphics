@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\3D_Graph\3D_Graph\bin\Debug\3D_Graph.exe.config
+C:\Users\User\source\repos\3D_Graph\3D_Graph\obj\Debug\_3D_Graph.Form1.resources
+C:\Users\User\source\repos\3D_Graph\3D_Graph\obj\Debug\_3D_Graph.Properties.Resources.resources
+C:\Users\User\source\repos\3D_Graph\3D_Graph\obj\Debug\3D_Graph.csproj.GenerateResource.cache
+C:\Users\User\source\repos\3D_Graph\3D_Graph\obj\Debug\3D_Graph.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\3D_Graph\3D_Graph\obj\Debug\3D_Graph.exe
+C:\Users\User\source\repos\3D_Graph\3D_Graph\obj\Debug\3D_Graph.pdb
+C:\Users\User\source\repos\3D_Graph\3D_Graph\bin\Debug\3D_Graph.exe
+C:\Users\User\source\repos\3D_Graph\3D_Graph\bin\Debug\3D_Graph.pdb
+C:\Users\User\source\repos\3D_Graph\3D_Graph\obj\Debug\3D_Graph.csproj.Fody.CopyLocal.cache
+C:\Users\User\source\repos\3D_Graph\3D_Graph\obj\Debug\3D_Graph.csprojAssemblyReference.cache
+D:\VS Projects\3D_Graph\bin\Debug\3D_Graph.exe.config
+D:\VS Projects\3D_Graph\bin\Debug\3D_Graph.exe
+D:\VS Projects\3D_Graph\bin\Debug\3D_Graph.pdb
+D:\VS Projects\3D_Graph\obj\Debug\3D_Graph.csprojAssemblyReference.cache
+D:\VS Projects\3D_Graph\obj\Debug\_3D_Graph.Form1.resources
+D:\VS Projects\3D_Graph\obj\Debug\_3D_Graph.Properties.Resources.resources
+D:\VS Projects\3D_Graph\obj\Debug\3D_Graph.csproj.GenerateResource.cache
+D:\VS Projects\3D_Graph\obj\Debug\3D_Graph.csproj.CoreCompileInputs.cache
+D:\VS Projects\3D_Graph\obj\Debug\3D_Graph.csproj.Fody.CopyLocal.cache
+D:\VS Projects\3D_Graph\obj\Debug\3D_Graph.exe
+D:\VS Projects\3D_Graph\obj\Debug\3D_Graph.pdb
